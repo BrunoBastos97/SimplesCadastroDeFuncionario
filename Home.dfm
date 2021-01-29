@@ -2391,9 +2391,9 @@ object Form1: TForm1
     object Label4: TLabel
       Left = 111
       Top = 32
-      Width = 522
+      Width = 513
       Height = 45
-      Caption = 'CADASTRO FUNCIONARIO  '
+      Caption = 'CADASTRO FUNCION'#193'RIO  '
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWhite
       Font.Height = -37
