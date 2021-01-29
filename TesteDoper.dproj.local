@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/02 15:52:49.000.815,=C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 15:53:13.000.803,C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\TesteDoper.dproj</Transaction>
+    <Transaction>2020/12/02 16:11:21.000.353,C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\TesteDoper\Home.pas</Transaction>
+    <Transaction>2020/12/02 16:11:21.000.353,C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\TesteDoper\Home.dfm</Transaction>
+    <Transaction>2020/12/02 20:28:35.000.490,C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\TesteDoper.dproj=C:\Users\Bruno Bastos\Documents\Embarcadero\Studio\Projects\TesteDoper\TesteDoper.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
