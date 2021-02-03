@@ -23,7 +23,7 @@ Poderar está buscando os funcionários com o maior salário, maior tempo de con
 
 - Cadastro dos funcionários .
 <div align="center">
-    <img src="/Tela.gif"
+    <img src="Tela.gif"
     alt="Tela" height="425">    
 </div>
 
